@@ -10,6 +10,7 @@ This repo contains the infrastructure required to build and deploy the wordpress
 1. Install Docker
 2. Clone down this repo
 3. Run `docker-compose up`
+4. Go to `http://localhost:8080` in a browser
 
 The following ports are exposed when running:
 - 8080: HTTP traffic to Wordpress
